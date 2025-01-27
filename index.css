@@ -6,6 +6,16 @@
 /* particular */
 /* ---- reset ---- */
 
+
+.navbar-toggler {
+  border-color: black; /* Change border color */
+}
+
+.navbar-toggler-icon {
+  filter: invert(1); /* Turns the icon black */
+}
+
+
 canvas {
   display: block;
   vertical-align: bottom;
